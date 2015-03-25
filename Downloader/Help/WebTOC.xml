@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="39c934b2-beee-46c4-a7aa-aa127bd9e479" Title="Download" Url="html/9cca8673-6594-9182-aeba-94ff468c8939.htm">
+    <HelpTOCNode Id="423ed57d-d0f9-41a7-b5bb-dc194d8531ff" Title="Downloader Class" Url="html/4304a350-3b7f-34d0-7c13-109100232c41.htm">
+      <HelpTOCNode Title="Downloader Constructor " Url="html/4895e726-e4ff-d1cc-50bc-2fe934edeabf.htm" />
+      <HelpTOCNode Id="f60318c2-1737-4eb6-95a3-49170614af07" Title="Downloader Methods" Url="html/5b15f069-51b3-f249-788e-ee6a6a029346.htm">
+        <HelpTOCNode Title="CancelDownload Method " Url="html/232cb1c2-293d-d13f-ebd1-0fdf57426dfd.htm" />
+        <HelpTOCNode Title="Dispose Method " Url="html/23977f90-fe6d-21c2-d696-e09431c50b3f.htm" />
+        <HelpTOCNode Title="NotifyPropertyChanged Method " Url="html/6d352885-6384-581c-7fe7-41f6f590c93e.htm" />
+        <HelpTOCNode Title="OnDownloadCompleted Method " Url="html/6237fcab-d48f-25e1-e1c0-0637f3dd8f07.htm" />
+        <HelpTOCNode Title="OnDownloadProgressChanged Method " Url="html/619a874f-a807-e74e-c442-24f6e7344db3.htm" />
+        <HelpTOCNode Title="StartDownload Method " Url="html/6a1b19b4-34b2-484e-5255-c94b74be2d2f.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1b5684a4-308a-4fef-a7cf-13e624760604" Title="Downloader Properties" Url="html/93cd4b18-e4f5-f76a-7445-1b54326a7884.htm">
+        <HelpTOCNode Title="CloseOnSave Property " Url="html/b47ad7d6-11c8-b487-81eb-c7621dd3e7a5.htm" />
+        <HelpTOCNode Title="DataDownloaded Property " Url="html/dc48d641-f2b3-aa19-a899-e75a4b04c497.htm" />
+        <HelpTOCNode Title="DownloadProgress Property " Url="html/b0ebadd3-1034-d571-412c-fe71e0c05611.htm" />
+        <HelpTOCNode Title="DownloadSize Property " Url="html/18858698-82bd-b8b7-82aa-55f986fa7d4a.htm" />
+        <HelpTOCNode Title="DownloadSpeed Property " Url="html/ba380258-75d3-898b-9121-2e3b5bd84c0c.htm" />
+        <HelpTOCNode Title="DownloadSpeedAsString Property " Url="html/3217c2b9-0f9c-204e-931c-273bec72eb88.htm" />
+        <HelpTOCNode Title="DownloadStatus Property " Url="html/3039e6c9-7591-0c1b-b925-156ecef0ad0b.htm" />
+        <HelpTOCNode Title="DownloadUri Property " Url="html/21b1740e-83d8-1ee0-ff94-b8844b5b9aed.htm" />
+        <HelpTOCNode Title="Headless Property " Url="html/6f90a6de-e214-9a6d-8b2f-76b1d24ab8d5.htm" />
+        <HelpTOCNode Title="MD5Hash Property " Url="html/72c52431-2df9-88a9-0f7f-1cba98e7163e.htm" />
+        <HelpTOCNode Title="RunWhenComplete Property " Url="html/eafb9c29-f420-9b1f-d105-863e43692a0d.htm" />
+        <HelpTOCNode Title="SaveFileAs Property " Url="html/b81550b2-8344-76fe-068d-c54919b81104.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="07cdd5a5-78dc-4a07-ab86-ffa90d9ae0d0" Title="Downloader Events" Url="html/5e98ff0f-f47a-7fc3-8d2a-5a978d688f56.htm">
+        <HelpTOCNode Title="PropertyChanged Event" Url="html/21e38b35-83a0-5fd9-f011-9bb037c62a0a.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Downloader.Status Enumeration" Url="html/e059e436-ab58-b4e4-a766-d818596ddb4e.htm" />
+    <HelpTOCNode Id="6952fbe6-ce47-4b7e-a10d-05bd70326338" Title="DownloadException Class" Url="html/3a70e930-0be6-bc6d-b7c5-31fcf01626a1.htm">
+      <HelpTOCNode Id="44faf976-7c7f-48ef-ac13-f86087c2a8bd" Title="DownloadException Constructor " Url="html/213c8612-0262-50e5-e3c0-1e7ed9b77104.htm">
+        <HelpTOCNode Title="DownloadException Constructor " Url="html/08e67539-89a9-88e3-8dc9-0f6fc09f64d4.htm" />
+        <HelpTOCNode Title="DownloadException Constructor (String)" Url="html/eb2c473a-96be-1013-ba92-3ad4ba1043b6.htm" />
+        <HelpTOCNode Title="DownloadException Constructor (SerializationInfo, StreamingContext)" Url="html/520aa3f9-2b2d-2250-790d-e5be05e61c13.htm" />
+        <HelpTOCNode Title="DownloadException Constructor (String, Exception)" Url="html/e6b88c43-43a0-8329-fc37-b2dc9258b16d.htm" />
+        <HelpTOCNode Title="DownloadException Constructor (String, Object[])" Url="html/411dd54e-639d-f6d2-b27a-68450aeca331.htm" />
+        <HelpTOCNode Title="DownloadException Constructor (String, Exception, Object[])" Url="html/c9f8fd8b-5cb8-1da3-2550-e489ab8a8488.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="96353760-72df-4315-a8ff-03447a449cbe" Title="Log Class" Url="html/c87c0f55-9ac6-360e-5a75-e119b612eff7.htm">
+      <HelpTOCNode Id="2715371d-c7b4-4833-89a6-6f980d52f1d4" Title="Log Fields" Url="html/3ac52265-9570-74d7-7a18-aa6d1552cf31.htm">
+        <HelpTOCNode Title="EmailLog Field" Url="html/57183281-39bd-5385-7696-cb315a85be1e.htm" />
+        <HelpTOCNode Title="EmailLogDate Field" Url="html/e6cf4b23-a002-804b-9d0c-62f282ee4aae.htm" />
+        <HelpTOCNode Title="ExceptionLogFile Field" Url="html/f8e2f7b2-a2d8-076e-8d88-743837847d95.htm" />
+        <HelpTOCNode Title="level Field" Url="html/25eccbaf-28c6-2d98-9921-0ab540a54e50.htm" />
+        <HelpTOCNode Title="LogFile Field" Url="html/b9d65034-363b-eab3-a5aa-f7dcbeb05697.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="38409e19-de15-402d-a4c2-bc4e93a15512" Title="Log Methods" Url="html/4740bad7-913b-6282-53fc-2805fcb45fb7.htm">
+        <HelpTOCNode Title="CloseEmailLog Method " Url="html/ff53d419-b393-7545-dcf8-6b3a469c142c.htm" />
+        <HelpTOCNode Title="EmailSent Method " Url="html/34a5c041-b8ef-3ca2-88a5-7985f8c46210.htm" />
+        <HelpTOCNode Id="178eadf8-8f42-4f70-ab0f-69ef40883c9b" Title="Error Method " Url="html/a6cd73f3-d321-80f7-9a45-ec74e5ba1ea5.htm">
+          <HelpTOCNode Title="Error Method (String)" Url="html/151ddff6-c1d7-40eb-33c0-20fd586766c6.htm" />
+          <HelpTOCNode Title="Error Method (String, Exception)" Url="html/c77f2e63-0570-b555-f029-de404f72c27f.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Exception Method " Url="html/51e3504f-b65c-3949-7801-7eeb2a2095c6.htm" />
+        <HelpTOCNode Id="e36cbf3d-cee8-405d-aae2-dcf144b7b362" Title="Info Method " Url="html/3f2e8f2f-0e04-7412-6b86-d47059609c6d.htm">
+          <HelpTOCNode Title="Info Method (String)" Url="html/8664ae04-3469-0824-ea4d-d275ef9f0439.htm" />
+          <HelpTOCNode Title="Info Method (String, Exception)" Url="html/d7c8bd0b-9b5e-a5ed-225c-6b501067bf17.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="OpenEmailLog Method " Url="html/94125828-718b-6556-a930-0a78cf5f8a0c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="Log.Level Enumeration" Url="html/305331c6-8b5e-f682-70db-9d43eb3dc993.htm" />
+  </HelpTOCNode>
+</HelpTOC>

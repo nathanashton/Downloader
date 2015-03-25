@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="All enumeration member" Url="html/305331c6-8b5e-f682-70db-9d43eb3dc993.htm" />
+  <HelpKINode Title="CancelDownload method" Url="html/232cb1c2-293d-d13f-ebd1-0fdf57426dfd.htm" />
+  <HelpKINode Title="Cancelled enumeration member" Url="html/e059e436-ab58-b4e4-a766-d818596ddb4e.htm" />
+  <HelpKINode Title="CloseEmailLog method" Url="html/ff53d419-b393-7545-dcf8-6b3a469c142c.htm" />
+  <HelpKINode Title="CloseOnSave property" Url="html/b47ad7d6-11c8-b487-81eb-c7621dd3e7a5.htm" />
+  <HelpKINode Title="DataDownloaded property" Url="html/dc48d641-f2b3-aa19-a899-e75a4b04c497.htm" />
+  <HelpKINode Title="Dispose method" Url="html/23977f90-fe6d-21c2-d696-e09431c50b3f.htm" />
+  <HelpKINode Title="Download namespace" Url="html/9cca8673-6594-9182-aeba-94ff468c8939.htm" />
+  <HelpKINode Title="Download.Downloader class" Url="html/4304a350-3b7f-34d0-7c13-109100232c41.htm" />
+  <HelpKINode Title="Download.Downloader.Status enumeration" Url="html/e059e436-ab58-b4e4-a766-d818596ddb4e.htm" />
+  <HelpKINode Title="Download.DownloadException class" Url="html/3a70e930-0be6-bc6d-b7c5-31fcf01626a1.htm" />
+  <HelpKINode Title="Download.Log class" Url="html/c87c0f55-9ac6-360e-5a75-e119b612eff7.htm" />
+  <HelpKINode Title="Download.Log.Level enumeration" Url="html/305331c6-8b5e-f682-70db-9d43eb3dc993.htm" />
+  <HelpKINode Title="Downloader class">
+    <HelpKINode Title="Downloader Class" Url="html/4304a350-3b7f-34d0-7c13-109100232c41.htm" />
+    <HelpKINode Title="about Downloader class" Url="html/4304a350-3b7f-34d0-7c13-109100232c41.htm" />
+    <HelpKINode Title="constructor" Url="html/4895e726-e4ff-d1cc-50bc-2fe934edeabf.htm" />
+    <HelpKINode Title="events" Url="html/5e98ff0f-f47a-7fc3-8d2a-5a978d688f56.htm" />
+    <HelpKINode Title="methods" Url="html/5b15f069-51b3-f249-788e-ee6a6a029346.htm" />
+    <HelpKINode Title="properties" Url="html/93cd4b18-e4f5-f76a-7445-1b54326a7884.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Downloader.CancelDownload method" Url="html/232cb1c2-293d-d13f-ebd1-0fdf57426dfd.htm" />
+  <HelpKINode Title="Downloader.CloseOnSave property" Url="html/b47ad7d6-11c8-b487-81eb-c7621dd3e7a5.htm" />
+  <HelpKINode Title="Downloader.DataDownloaded property" Url="html/dc48d641-f2b3-aa19-a899-e75a4b04c497.htm" />
+  <HelpKINode Title="Downloader.Dispose method" Url="html/23977f90-fe6d-21c2-d696-e09431c50b3f.htm" />
+  <HelpKINode Title="Downloader.Downloader constructor" Url="html/4895e726-e4ff-d1cc-50bc-2fe934edeabf.htm" />
+  <HelpKINode Title="Downloader.DownloadProgress property" Url="html/b0ebadd3-1034-d571-412c-fe71e0c05611.htm" />
+  <HelpKINode Title="Downloader.DownloadSize property" Url="html/18858698-82bd-b8b7-82aa-55f986fa7d4a.htm" />
+  <HelpKINode Title="Downloader.DownloadSpeed property" Url="html/ba380258-75d3-898b-9121-2e3b5bd84c0c.htm" />
+  <HelpKINode Title="Downloader.DownloadSpeedAsString property" Url="html/3217c2b9-0f9c-204e-931c-273bec72eb88.htm" />
+  <HelpKINode Title="Downloader.DownloadStatus property" Url="html/3039e6c9-7591-0c1b-b925-156ecef0ad0b.htm" />
+  <HelpKINode Title="Downloader.DownloadUri property" Url="html/21b1740e-83d8-1ee0-ff94-b8844b5b9aed.htm" />
+  <HelpKINode Title="Downloader.Headless property" Url="html/6f90a6de-e214-9a6d-8b2f-76b1d24ab8d5.htm" />
+  <HelpKINode Title="Downloader.MD5Hash property" Url="html/72c52431-2df9-88a9-0f7f-1cba98e7163e.htm" />
+  <HelpKINode Title="Downloader.NotifyPropertyChanged method" Url="html/6d352885-6384-581c-7fe7-41f6f590c93e.htm" />
+  <HelpKINode Title="Downloader.OnDownloadCompleted method" Url="html/6237fcab-d48f-25e1-e1c0-0637f3dd8f07.htm" />
+  <HelpKINode Title="Downloader.OnDownloadProgressChanged method" Url="html/619a874f-a807-e74e-c442-24f6e7344db3.htm" />
+  <HelpKINode Title="Downloader.PropertyChanged event" Url="html/21e38b35-83a0-5fd9-f011-9bb037c62a0a.htm" />
+  <HelpKINode Title="Downloader.RunWhenComplete property" Url="html/eafb9c29-f420-9b1f-d105-863e43692a0d.htm" />
+  <HelpKINode Title="Downloader.SaveFileAs property" Url="html/b81550b2-8344-76fe-068d-c54919b81104.htm" />
+  <HelpKINode Title="Downloader.StartDownload method" Url="html/6a1b19b4-34b2-484e-5255-c94b74be2d2f.htm" />
+  <HelpKINode Title="Downloader.Status enumeration" Url="html/e059e436-ab58-b4e4-a766-d818596ddb4e.htm" />
+  <HelpKINode Title="DownloadException class">
+    <HelpKINode Title="DownloadException Class" Url="html/3a70e930-0be6-bc6d-b7c5-31fcf01626a1.htm" />
+    <HelpKINode Title="about DownloadException class" Url="html/3a70e930-0be6-bc6d-b7c5-31fcf01626a1.htm" />
+    <HelpKINode Title="constructor" Url="html/213c8612-0262-50e5-e3c0-1e7ed9b77104.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DownloadException.DownloadException constructor" Url="html/213c8612-0262-50e5-e3c0-1e7ed9b77104.htm" />
+  <HelpKINode Title="DownloadProgress property" Url="html/b0ebadd3-1034-d571-412c-fe71e0c05611.htm" />
+  <HelpKINode Title="DownloadSize property" Url="html/18858698-82bd-b8b7-82aa-55f986fa7d4a.htm" />
+  <HelpKINode Title="DownloadSpeed property" Url="html/ba380258-75d3-898b-9121-2e3b5bd84c0c.htm" />
+  <HelpKINode Title="DownloadSpeedAsString property" Url="html/3217c2b9-0f9c-204e-931c-273bec72eb88.htm" />
+  <HelpKINode Title="DownloadStatus property" Url="html/3039e6c9-7591-0c1b-b925-156ecef0ad0b.htm" />
+  <HelpKINode Title="DownloadUri property" Url="html/21b1740e-83d8-1ee0-ff94-b8844b5b9aed.htm" />
+  <HelpKINode Title="EmailLog field" Url="html/57183281-39bd-5385-7696-cb315a85be1e.htm" />
+  <HelpKINode Title="EmailLogDate field" Url="html/e6cf4b23-a002-804b-9d0c-62f282ee4aae.htm" />
+  <HelpKINode Title="EmailSent method" Url="html/34a5c041-b8ef-3ca2-88a5-7985f8c46210.htm" />
+  <HelpKINode Title="Error method" Url="html/a6cd73f3-d321-80f7-9a45-ec74e5ba1ea5.htm" />
+  <HelpKINode Title="Errors enumeration member" Url="html/305331c6-8b5e-f682-70db-9d43eb3dc993.htm" />
+  <HelpKINode Title="Exception method" Url="html/51e3504f-b65c-3949-7801-7eeb2a2095c6.htm" />
+  <HelpKINode Title="ExceptionLogFile field" Url="html/f8e2f7b2-a2d8-076e-8d88-743837847d95.htm" />
+  <HelpKINode Title="Failed enumeration member" Url="html/e059e436-ab58-b4e4-a766-d818596ddb4e.htm" />
+  <HelpKINode Title="Headless property" Url="html/6f90a6de-e214-9a6d-8b2f-76b1d24ab8d5.htm" />
+  <HelpKINode Title="Info enumeration member" Url="html/305331c6-8b5e-f682-70db-9d43eb3dc993.htm" />
+  <HelpKINode Title="Info method" Url="html/3f2e8f2f-0e04-7412-6b86-d47059609c6d.htm" />
+  <HelpKINode Title="level field" Url="html/25eccbaf-28c6-2d98-9921-0ab540a54e50.htm" />
+  <HelpKINode Title="Log class">
+    <HelpKINode Title="Log Class" Url="html/c87c0f55-9ac6-360e-5a75-e119b612eff7.htm" />
+    <HelpKINode Title="about Log class" Url="html/c87c0f55-9ac6-360e-5a75-e119b612eff7.htm" />
+    <HelpKINode Title="fields" Url="html/3ac52265-9570-74d7-7a18-aa6d1552cf31.htm" />
+    <HelpKINode Title="methods" Url="html/4740bad7-913b-6282-53fc-2805fcb45fb7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Log.CloseEmailLog method" Url="html/ff53d419-b393-7545-dcf8-6b3a469c142c.htm" />
+  <HelpKINode Title="Log.EmailLog field" Url="html/57183281-39bd-5385-7696-cb315a85be1e.htm" />
+  <HelpKINode Title="Log.EmailLogDate field" Url="html/e6cf4b23-a002-804b-9d0c-62f282ee4aae.htm" />
+  <HelpKINode Title="Log.EmailSent method" Url="html/34a5c041-b8ef-3ca2-88a5-7985f8c46210.htm" />
+  <HelpKINode Title="Log.Error method" Url="html/a6cd73f3-d321-80f7-9a45-ec74e5ba1ea5.htm" />
+  <HelpKINode Title="Log.Exception method" Url="html/51e3504f-b65c-3949-7801-7eeb2a2095c6.htm" />
+  <HelpKINode Title="Log.ExceptionLogFile field" Url="html/f8e2f7b2-a2d8-076e-8d88-743837847d95.htm" />
+  <HelpKINode Title="Log.Info method" Url="html/3f2e8f2f-0e04-7412-6b86-d47059609c6d.htm" />
+  <HelpKINode Title="Log.Level enumeration" Url="html/305331c6-8b5e-f682-70db-9d43eb3dc993.htm" />
+  <HelpKINode Title="Log.level field" Url="html/25eccbaf-28c6-2d98-9921-0ab540a54e50.htm" />
+  <HelpKINode Title="Log.LogFile field" Url="html/b9d65034-363b-eab3-a5aa-f7dcbeb05697.htm" />
+  <HelpKINode Title="Log.OpenEmailLog method" Url="html/94125828-718b-6556-a930-0a78cf5f8a0c.htm" />
+  <HelpKINode Title="LogFile field" Url="html/b9d65034-363b-eab3-a5aa-f7dcbeb05697.htm" />
+  <HelpKINode Title="MD5Failed enumeration member" Url="html/e059e436-ab58-b4e4-a766-d818596ddb4e.htm" />
+  <HelpKINode Title="MD5Hash property" Url="html/72c52431-2df9-88a9-0f7f-1cba98e7163e.htm" />
+  <HelpKINode Title="NotifyPropertyChanged method" Url="html/6d352885-6384-581c-7fe7-41f6f590c93e.htm" />
+  <HelpKINode Title="OnDownloadCompleted method" Url="html/6237fcab-d48f-25e1-e1c0-0637f3dd8f07.htm" />
+  <HelpKINode Title="OnDownloadProgressChanged method" Url="html/619a874f-a807-e74e-c442-24f6e7344db3.htm" />
+  <HelpKINode Title="OpenEmailLog method" Url="html/94125828-718b-6556-a930-0a78cf5f8a0c.htm" />
+  <HelpKINode Title="PropertyChanged event" Url="html/21e38b35-83a0-5fd9-f011-9bb037c62a0a.htm" />
+  <HelpKINode Title="RunWhenComplete property" Url="html/eafb9c29-f420-9b1f-d105-863e43692a0d.htm" />
+  <HelpKINode Title="SaveFileAs property" Url="html/b81550b2-8344-76fe-068d-c54919b81104.htm" />
+  <HelpKINode Title="StartDownload method" Url="html/6a1b19b4-34b2-484e-5255-c94b74be2d2f.htm" />
+  <HelpKINode Title="Successful enumeration member" Url="html/e059e436-ab58-b4e4-a766-d818596ddb4e.htm" />
+</HelpKI>
